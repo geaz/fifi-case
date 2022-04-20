@@ -1,7 +1,7 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A01MQZP)
 
 This repository contains a case for the [fifi keyboard](https://github.com/raychengy/fifi_split_keeb).
-The case features an open bottom. This reduces the print time and eliminates the *plastic sound* most other 3D printed cases suffer from.
+The case features an open bottom. This reduces the print time and eliminates the *plastic sound* many other 3D printed cases suffer from.
 
 ![Fifi Case](https://raw.githubusercontent.com/geaz/fifi-case/master/images/1.jpg)
 
