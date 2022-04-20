@@ -3,9 +3,9 @@
 This repository contains a case for the [fifi keyboard](https://github.com/raychengy/fifi_split_keeb).
 The case features an open bottom. This reduces the print time and eliminates the *plastic sound* many other 3D printed cases suffer from.
 
-![Fifi Case](https://raw.githubusercontent.com/geaz/fifi-case/master/images/1.jpg)
+![Fifi Case](https://raw.githubusercontent.com/geaz/fifi-case/main/images/1.jpg)
 
-![Fifi Case Bottom](https://raw.githubusercontent.com/geaz/fifi-case/master/images/2.jpg)
+![Fifi Case Bottom](https://raw.githubusercontent.com/geaz/fifi-case/main/images/2.jpg)
 
 ## 3D Model
 The model was designed in Fusion 360. The *stl* folder contains all exported model parts and the *cad* folder contains an exported fusion archive file.
@@ -20,4 +20,4 @@ The model was designed in Fusion 360. The *stl* folder contains all exported mod
 
 The following picture shows the layering of the printed parts and the pcb.
 
-![Build](https://raw.githubusercontent.com/geaz/fifi-case/master/images/3.jpg)
+![Build](https://raw.githubusercontent.com/geaz/fifi-case/main/images/3.jpg)
